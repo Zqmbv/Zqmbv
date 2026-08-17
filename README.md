@@ -5,13 +5,13 @@
 Hi! I'm 20 years old and based in Maracaibo, Venezuela. I'm an Informatics Engineering student passionate about software development, web design, data analysis, and network infrastructure.
 
 <p align="left">
-    <a href="https://github.com/Zqmbv?tab=repositories&sort=stargazers">
+    <!-- <a href="https://github.com/Zqmbv?tab=repositories&sort=stargazers">
         <img 
             alt="Stars" 
             title="Total stars on Github" 
             src="https://custom-icon-badges.demolab.com/github/stars/Zqmbv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
-    </a>
+    </a> -->
     <a href="https://github.com/Zqmbv?tab=followers">
         <img 
             alt="Followers" 
@@ -21,7 +21,7 @@ Hi! I'm 20 years old and based in Maracaibo, Venezuela. I'm an Informatics Engin
     </a>
 </p>
 
----
+<hr>
 
 ### Languages
 
@@ -107,7 +107,7 @@ Hi! I'm 20 years old and based in Maracaibo, Venezuela. I'm an Informatics Engin
 <br/>
 <br/>
 
----
+<hr>
 
 ### Statistics
 
