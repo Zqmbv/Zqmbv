@@ -10,9 +10,24 @@
 
 <p data-importer="text" align="left">Hi! I'm 20 years old and based in Maracaibo, Venezuela. I'm a Computer Science sudent passionate about software development, web design, data analysis, and network infrastructure.</p>
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
-</div>
+<p align="left">
+    <a href="https://github.com/Zqmbv?tab=repositories&sort=stargazers">
+        <img 
+            alt="Stars" 
+            title="Total stars on Github" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Zqmbv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+        />
+    </a>
+    <a href="https://github.com/Zqmbv?tab=followers">
+        <img 
+            alt="Followers" 
+            title="Followers on Github" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Zqmbv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+        />
+    </a>
+</p>
+
+---
 
 <h3 data-importer="text" align="left">Tech Stack</h3>
 
@@ -37,12 +52,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
@@ -54,9 +70,7 @@
 
 <br clear="both">
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
-</div>
+---
 
 <h3 data-importer="text" align="left">Statistics</h3>
 
