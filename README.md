@@ -4,11 +4,9 @@
 
 ###
 
-<h1 data-importer="text" align="left">Maurizio Zambuchini</h1>
+<h1 data-importer="text" align="left">About me</h1>
 
-<h3 data-importer="text" align="left">Computer Science Student</h3>
-
-<p data-importer="text" align="left">Hi! I'm 20 years old and based in Maracaibo, Venezuela. I'm a Computer Science sudent passionate about software development, web design, data analysis, and network infrastructure.</p>
+<p data-importer="text" align="left">Hi! I'm 20 years old and based in Maracaibo, Venezuela. I'm a Computer Science student passionate about software development, web design, data analysis, and network infrastructure.</p>
 
 <p align="left">
     <a href="https://github.com/Zqmbv?tab=repositories&sort=stargazers">
@@ -58,7 +56,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
